@@ -1,0 +1,52 @@
+Basic operations in files and folers:
+
+1. DIR (To Open list of files & Folders in Current Location)
+
+2. MKDIR (To Create Folder)
+
+3. REN (To Rename Files & Folders)
+
+4. DEL (To Delete Files)
+
+5. COPY (To Copy Files & Folders)
+
+6. MOVE (To Move Files & Folders)
+
+7. RMDIR (To Delete Folders)
+
+8. CD (To Change Directory)
+
+9. CD/ (To Return Drive Location Out of all Folders)
+
+10. CD (To Return a step Backward)
+__________________________________________________________________________________________________________________________
+*to enter to any directory use "cd  <nameofdirectory>"            [cd= current directory]
+C:\Users\asus>cd desktop
+
+*to come out of directory use "cd.."
+C:\Users\asus\Desktop>cd..
+
+*to come out of all directories use "cd/"
+C:\Users\asus>cd/
+C:\>cd 
+
+*to make a folder(directory) use "mkdir  <nameoffolder>"
+C:\Users\asus\Desktop>mkdir hello
+
+* to rename a folder use "ren <oldname> <newname>"
+C:\Users\asus\Desktop>ren hello world
+
+* to create a file use "type nul> <nameoffile>"
+C:\Users\asus\Desktop\world>type nul> first.txt
+
+*to copy a file from desktop to any folder use " copy <filetobecopied> <locaton>"
+C:\Users\asus\Desktop>copy questions.txt world
+        1 file(s) copied.
+        
+*to move a file from desktop to any folder use " copy <filetobecopied> <locaton>"        
+C:\Users\asus\Desktop>move first.txt world
+        1 file(s) moved.
+
+* to delete the folder use" rmdir <foldername>"
+C:\Users\asus\Desktop>rmdir world
+
