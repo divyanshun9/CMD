@@ -18,7 +18,7 @@ Basic operations in files and folers:
 
 9. CD/ (To Return Drive Location Out of all Folders)
 
-10. CD (To Return a step Backward)
+10. CD.. (To Return a step Backward)
 __________________________________________________________________________________________________________________________
 *to enter to any directory use "cd  <nameofdirectory>"            [cd= current directory]
 C:\Users\asus>cd desktop
